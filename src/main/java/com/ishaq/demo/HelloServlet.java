@@ -1,4 +1,4 @@
-package com.tharun.demo;
+package com.ishaq.demo;
 
 import java.io.IOException;
 import jakarta.servlet.ServletException;
